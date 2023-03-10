@@ -24,3 +24,6 @@ Folder Structure:
 
 <img width="344" alt="image" src="https://user-images.githubusercontent.com/44664023/224407427-3769b5bb-8600-42cf-8d50-9f346632ee3c.png">
 
+
+Detailed explanation will be uploaded in youtube soon and url will be given here.
+
