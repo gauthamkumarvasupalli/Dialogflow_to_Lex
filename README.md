@@ -22,5 +22,5 @@ It is not creating slots in Lex and also not using entities in Dialogflow.
 
 Folder Structure:
 
-<img width="356" alt="image" src="https://user-images.githubusercontent.com/44664023/224407145-2c0ae436-ee7f-4e64-85f9-feb9edb65236.png">
+<img width="344" alt="image" src="https://user-images.githubusercontent.com/44664023/224407427-3769b5bb-8600-42cf-8d50-9f346632ee3c.png">
 
